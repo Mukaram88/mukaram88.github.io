@@ -1,4 +1,9 @@
-
+ul li {
+    color: red;
+  }
+  #root > ul > li  {
+    color: blue;
+  }
         div {
             margin: 20px 0px 20px 0px;
         } 
