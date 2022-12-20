@@ -1,14 +1,38 @@
+body {
+    background-color: #e2e2e2;
+    font-family: 'Roboto', sans-serif;
+}
+
 ul li {
-    color: red;
-  }
-  #root > ul > li  {
+    font-weight: normal;
+}
+
+ul li a {
+    display: inline-block;
+}
+
+#root>ul>li {
     color: blue;
-  }
-        div {
-            margin: 20px 0px 20px 0px;
-        } 
-        body {
-            background-color: #e2e2e2;
-            font-family: 'Roboto', sans-serif;
-        }
-   
+    padding: 0px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.red-text {
+    color: red;
+}
+
+.pt-10px {
+    padding-top: 10px;
+}
+
+
+.pb-10px {
+    padding-bottom: 10px;
+}
+
+.green-text {
+    color: green
+}
