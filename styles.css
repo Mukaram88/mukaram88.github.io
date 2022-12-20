@@ -16,6 +16,10 @@ ul li a {
     padding: 0px;
 }
 
+ul li p {
+    font-weight: normal;
+}
+
 .bold-text {
     font-weight: bold;
 }
